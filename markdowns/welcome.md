@@ -3,7 +3,7 @@
 [Lien vers exercice](https://tech.io/playgrounds/40718/les-structures)
 
 ## QCM
-[Lien vers Quizz](fsdfsdfsdfsfs)
+[Lien vers Quizz]()
 
 # Les allocations dynamiques
 ## Exercices
