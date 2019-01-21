@@ -1,27 +1,34 @@
 # Les structures
 ## Exercices
-[Lien vers exercice](fsdfsdfsdfsfs)
+[Lien vers exercice](https://tech.io/playgrounds/40718/les-structures)
+
 ## QCM
 [Lien vers Quizz](fsdfsdfsdfsfs)
 
 # Les allocations dynamiques
 ## Exercices
+[Lien vers exercice](https://tech.io/playgrounds/40720/lallocation-dynamique)
+
 ## QCM
 
 # Les fichiers
 ## Exercices
+[Lien vers exercice](https://tech.io/playgrounds/40721/les-fichiers)
+
 ## QCM
 
 # Intégration
 ## Exercices
+[Lien vers exercice](https://tech.io/playgrounds/40722/integration)
+
 ## QCM
 
 # Les listes
+[Lien vers exercice](https://tech.io/playgrounds/40724/les-listes)
+
 ## Exercices
 
 # Découpe en fichier `.h`
 
 # Blindage de saisie
 ## Exercices
-
-#
