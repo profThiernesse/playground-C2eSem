@@ -1,7 +1,8 @@
 # Les structures
 ## Exercices
+[Lien vers exercice](fsdfsdfsdfsfs)
 ## QCM
-
+[Lien vers Quizz](fsdfsdfsdfsfs)
 
 # Les allocations dynamiques
 ## Exercices
