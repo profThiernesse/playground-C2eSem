@@ -1,6 +1,6 @@
-title: C++ Project
+title: Sommaire Labo C
 plan:
-- title: Welcome
+- title: Sommaire
   statement: markdowns/welcome.md
 projects:
   cpp:
