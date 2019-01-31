@@ -11,6 +11,8 @@
 
 ## QCM
 
+[Lien vers Quizz](https://goo.gl/forms/p6AvTCkIq5uORGt33)
+
 # Les fichiers
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40721/les-fichiers)
