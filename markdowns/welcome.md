@@ -30,3 +30,6 @@
 # Les listes
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40724/les-listes)
+
+## QCM
+[Lien vers Quizz](https://goo.gl/forms/GnRjYTj7P7Pqqhj53)
