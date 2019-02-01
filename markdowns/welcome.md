@@ -23,8 +23,6 @@
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40722/integration)
 
-## QCM
-
 # Les listes
 [Lien vers exercice](https://tech.io/playgrounds/40724/les-listes)
 
