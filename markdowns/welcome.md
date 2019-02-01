@@ -19,6 +19,8 @@
 
 ## QCM
 
+[Lien vers Quizz](https://goo.gl/forms/lHT2ovjuUMwynPD13)
+
 # Intégration
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40722/integration)
