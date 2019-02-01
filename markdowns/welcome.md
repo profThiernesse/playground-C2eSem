@@ -29,8 +29,3 @@
 [Lien vers exercice](https://tech.io/playgrounds/40724/les-listes)
 
 ## Exercices
-
-# Découpe en fichier `.h`
-
-# Blindage de saisie
-## Exercices
