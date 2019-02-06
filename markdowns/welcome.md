@@ -7,6 +7,10 @@
 ## QCM
 [Lien vers Quizz](https://goo.gl/forms/rkhhe9MD8skaLCqE2)
 
+# Atelier Intermédiaire
+[Consigne du travail]()
+
+Le travail doit être remis via [ce formalaire]() avant le xx/xx pour pouvoir participer à l'atelier.
 
 # Les allocations dynamiques
 ## Exercices
