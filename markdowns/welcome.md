@@ -10,7 +10,7 @@
 # Atelier Intermédiaire
 [Consigne du travail]()
 
-Le travail doit être remis via [ce formalaire](https://goo.gl/forms/qHhvGikjqV3YM02t2) avant le xx/xx pour pouvoir participer à l'atelier.
+Le travail doit être remis via [ce formulaire](https://goo.gl/forms/qHhvGikjqV3YM02t2) avant le xx/xx pour pouvoir participer à l'atelier.
 
 # Les allocations dynamiques
 ## Exercices
