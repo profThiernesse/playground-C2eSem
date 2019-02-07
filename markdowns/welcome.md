@@ -1,6 +1,6 @@
 # Dossier : Comparaison HeapSort - BubbleSort
 
-Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBrXg3zg1) avant le premier laboratoire de la semaine du 11/02 pour pouvoir participer à l'atelier.
+Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBrXg3zg1) avant le premier laboratoire de la semaine du 11/02.
 
 # Les structures
 ## Exercices
