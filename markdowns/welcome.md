@@ -43,5 +43,10 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBr
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **29/04**.
 
+## Ateliers
+
+1. Atelier piles et files : [Formulaire de remise](https://goo.gl/forms/f1k36Ba1lYrXegGK2)
+1. Atelier listes : [Formulaire de remise](https://goo.gl/forms/uiIMirfKGo9A0AuC3)
+
 ## QCM
 [Lien vers Quizz](https://goo.gl/forms/GnRjYTj7P7Pqqhj53)
