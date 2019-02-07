@@ -1,3 +1,7 @@
+# Dossier : Comparaison HeapSort - BubbleSort
+
+Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBrXg3zg1) avant le premier laboratoire de la semaine du 11/02 pour pouvoir participer à l'atelier.
+
 # Les structures
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40718/les-structures)
@@ -6,11 +10,6 @@
 
 ## QCM
 [Lien vers Quizz](https://goo.gl/forms/rkhhe9MD8skaLCqE2)
-
-# Atelier Intermédiaire
-[Consigne du travail]()
-
-Le travail doit être remis via [ce formulaire](https://goo.gl/forms/qHhvGikjqV3YM02t2) avant le xx/xx pour pouvoir participer à l'atelier.
 
 # Les allocations dynamiques
 ## Exercices
