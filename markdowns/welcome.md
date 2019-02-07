@@ -42,7 +42,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/qHhvGikjqV3
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40724/les-listes)
 
-**Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **06/05**.
+**Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **29/04**.
 
 ## QCM
 [Lien vers Quizz](https://goo.gl/forms/GnRjYTj7P7Pqqhj53)
