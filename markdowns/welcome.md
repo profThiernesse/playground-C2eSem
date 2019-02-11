@@ -11,6 +11,13 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBr
 ## QCM
 [Lien vers Quizz](https://goo.gl/forms/rkhhe9MD8skaLCqE2)
 
+# Atelier : Simulation Allocation Dynamique
+
+[Enonce du travail](https://hepl-my.sharepoint.com/:b:/g/personal/cedric_thiernesse_hepl_be/EXUOQc-LpPtLsw5XG-CpxTgBqQY3Ldz7fqRDWAHylmVZ-g?e=oeHzr5)
+
+Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2aB5qx1) pour le vendredi 22/02.
+
+
 # Les allocations dynamiques
 ## Exercices
 [Lien vers exercice](https://tech.io/playgrounds/40720/lallocation-dynamique)
