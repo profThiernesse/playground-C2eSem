@@ -13,7 +13,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBr
 
 # Atelier : Simulation Allocation Dynamique
 
-[Enonce du travail](https://hepl-my.sharepoint.com/:b:/g/personal/cedric_thiernesse_hepl_be/EXUOQc-LpPtLsw5XG-CpxTgBqQY3Ldz7fqRDWAHylmVZ-g?e=oeHzr5)
+[Enoncé du travail](https://hepl-my.sharepoint.com/:b:/g/personal/cedric_thiernesse_hepl_be/EXUOQc-LpPtLsw5XG-CpxTgBqQY3Ldz7fqRDWAHylmVZ-g?e=oeHzr5)
 
 Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2aB5qx1) pour le vendredi 22/02.
 
