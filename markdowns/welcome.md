@@ -38,7 +38,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 [Lien vers Quizz](https://goo.gl/forms/lHT2ovjuUMwynPD13)
 
 
-# Intégration
+# Intégration 1
 ## Exercices
 [Lien vers exercices](https://tech.io/playgrounds/40722/integration)
 
@@ -50,7 +50,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **29/04**.
 
-# Intégration
+# Intégration 2
 ## Exercices
 [Lien vers exercices](https://tech.io/playgrounds/44302/integration-fichiers---liste)
 
