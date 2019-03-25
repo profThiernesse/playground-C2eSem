@@ -4,7 +4,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/lcpQUyP2CBr
 
 # Les structures
 ## Exercices
-[Lien vers exercice](https://tech.io/playgrounds/40718/les-structures)
+[Lien vers exercices](https://tech.io/playgrounds/40718/les-structures)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **18/02**.
 
@@ -20,7 +20,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 
 # Les allocations dynamiques
 ## Exercices
-[Lien vers exercice](https://tech.io/playgrounds/40720/lallocation-dynamique)
+[Lien vers exercices](https://tech.io/playgrounds/40720/lallocation-dynamique)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **04/03**.
 
@@ -30,7 +30,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 
 # Les fichiers
 ## Exercices
-[Lien vers exercice](https://tech.io/playgrounds/40721/les-fichiers)
+[Lien vers exercices](https://tech.io/playgrounds/40721/les-fichiers)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **25/03**.
 
@@ -40,15 +40,19 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 
 # Intégration
 ## Exercices
-[Lien vers exercice](https://tech.io/playgrounds/40722/integration)
+[Lien vers exercices](https://tech.io/playgrounds/40722/integration)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **22/04**.
 
 # Les listes
 ## Exercices
-[Lien vers exercice](https://tech.io/playgrounds/40724/les-listes)
+[Lien vers exercices](https://tech.io/playgrounds/40724/les-listes)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **29/04**.
+
+# Intégration
+## Exercices
+[Lien vers exercices](https://tech.io/playgrounds/44302/integration-fichiers---liste)
 
 <!--
 ## Ateliers
