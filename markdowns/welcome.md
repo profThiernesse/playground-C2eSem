@@ -46,7 +46,7 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 
 # Dossier 2
 
-Le travail doit être remis via [ce formulaire](https://forms.gle/8v2s9vudueaMbC4DA) avant le premier laboratoire de la semaine du xx/xx.
+Le travail doit être remis via [ce formulaire](https://forms.gle/8v2s9vudueaMbC4DA) avant le premier laboratoire de la semaine du 24/04.
 
 
 # Les listes
